@@ -67,7 +67,7 @@ Key economic hubs — Zurich had the most resilient and growing tourism.
 
 ---
 
-## ✨ Key Findings
+## Key Findings
 
 - **Zurich Region** leads tourism recovery in 2023.
 - **Swiss tourists** dominated during COVID, while **foreign visitors** sharply dropped.
@@ -76,7 +76,7 @@ Key economic hubs — Zurich had the most resilient and growing tourism.
 
 ---
 
-## ✅ What I Learned
+## What I Learned
 
 - How to clean messy Excel tourism datasets
 - How to reshape wide time-series data for trend analysis
@@ -85,7 +85,7 @@ Key economic hubs — Zurich had the most resilient and growing tourism.
 
 ---
 
-## 📌 About Me
+## About Me
 
 I'm a **Computer Science graduate from India**, aspiring to become a **Data Analyst in Switzerland**.  
 This project is part of my **Data Analyst Swiss Recruiter Magnet Series** 🚀
