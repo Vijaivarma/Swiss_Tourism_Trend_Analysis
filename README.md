@@ -2,7 +2,7 @@
 
 A data-driven analysis of tourism trends across Swiss regions from 2019 to 2023, built to uncover post-COVID recovery, Swiss vs foreign tourist shifts, and regional growth.
 
-> Tools Used: **Python, Pandas, Matplotlib, Seaborn**  
+> Tools Used: **Python, Pandas, Matplotlib, Seaborn, Reportlab**  
 > Skills: **Data Cleaning, Reshaping, EDA, Visual Storytelling**  
 > Target: **Showcase skills for Swiss data analyst roles**
 
@@ -66,7 +66,18 @@ Key economic hubs — Zurich had the most resilient and growing tourism.
 ![Zurich vs Geneva vs Bern](Charts/zurich_geneva_bern_trend.png)
 
 ---
+---
 
+## Report Automation (Python)
+
+This project includes an automated reporting pipeline built using Python.
+
+### Features:
+- Automatically loads cleaned dataset
+- Generates multiple visualizations
+- Compiles insights and charts into a structured PDF report
+
+---
 ## Key Findings
 
 - **Zurich Region** leads tourism recovery in 2023.
